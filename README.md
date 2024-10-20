@@ -10,7 +10,7 @@ This project implements an Image Super-Resolution model using Generative Adversa
 - **loss.py**: Defines the loss functions for content, adversarial, and perceptual losses.
 - **train.py**: The main training script to train the GAN.
 - **test.py**: Script for testing the trained Generator on new images.
-- **DIV2K_train_HR/**: Folder containing high-resolution training images (not provided).
+- **DIV2K_train_HR/**: Folder containing high-resolution training images.
 
 ## Requirements
 
